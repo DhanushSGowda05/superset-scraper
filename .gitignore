@@ -1,0 +1,19 @@
+# Secrets
+.env
+credentials.json
+authorized_user.json
+
+# Playwright browser/session data
+browser_data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
